@@ -21,6 +21,3 @@ ML project to predict house prices using California dataset
   - `Matplotlib`/`Seaborn` (визуализация)
   - `NumPy` (работа с массивами)
 - **Данные**: Встроенный датасет `California Housing` из Scikit-learn
-
-## 📊 Результаты
-Лучшие метрики для модели **Random Forest Regressor**:
